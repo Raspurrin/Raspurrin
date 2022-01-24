@@ -1,6 +1,7 @@
 <h2 align="center">~ 🐰 Heyo, I'm Djaisin! 🎩 ~</h2>
 <br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 🏫 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
 🐺 I am part of the Wolf P.A.C.K, an assistant of the selection months at school.  
 🖥️ I enjoy learning from a low level and I have an interest in Assembly.  
