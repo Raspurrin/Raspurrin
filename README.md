@@ -8,11 +8,11 @@
 ✨ My most important values are empathy, rationality and authenticity.  
 🖌️ My hobbies are drawing, climbing, (board)games and crafting.  
 
-<img src="https://badge42.herokuapp.com/api/stats/mialbert?cursus=42cursus" height="150"/>
+<img src="https://badge42.herokuapp.com/api/stats/mialbert?cursus=42cursus" height="170"/>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raspurrin&theme=aura&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspurrin&theme=aura" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Raspurrin&theme=aura&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspurrin&theme=aura" height="170"/> 
 </p>
 
 
