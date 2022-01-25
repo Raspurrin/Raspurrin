@@ -7,7 +7,8 @@
 🖥️ I enjoy learning from a low level and I have an interest in Assembly.  
 ✨ My most important values are: empathy, rationality and authenticity.  
 🖌️ Some of my hobbies are: drawing, climbing, (board)games and crafting.  
-<h2></h2>
+  
+<h2 align="center">Some stats: 📝</h2>  
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='130"'>
 <p float="left">
