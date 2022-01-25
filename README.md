@@ -1,7 +1,7 @@
 <h2 align="center">Heyo, I'm Djaisin!<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
 <img align='left' src="https://badge42.herokuapp.com/api/stats/mialbert?cursus=42cursus" height="130"/>
 
-📝 I am 26 years old.  
+📝 But you could also call me Michelle.  
 🏫 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
 🐺 I am part of the Wolf P.A.C.K, an assistant of the selection months at school.  
 🖥️ I enjoy learning from a low level and I have an interest in Assembly.  
