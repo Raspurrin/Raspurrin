@@ -1,5 +1,5 @@
 <h2 align="center">Heyo, I'm Djaisin!<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
-<img align='left' src="https://badge42.herokuapp.com/api/stats/mialbert?cursus=42cursus" height="130"/>
+<img align='left' src="https://badge42.vercel.app/api/v2/cl1wjh1ip003509l2136q4lhz/stats?cursusId=21&coalitionId=150" alt="mialbert's 42 stats" height="150"/>
 
 🔸 But you could also call me Michelle.  
 🔸 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
