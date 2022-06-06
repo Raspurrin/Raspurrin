@@ -2,7 +2,7 @@
 <img align='left' src="https://badge42.vercel.app/api/v2/cl1wjh1ip003509l2136q4lhz/stats?cursusId=21&coalitionId=150" alt="mialbert's 42 stats" height="170"/>
 
 🔸 But you could also call me Michelle.  
-🔸 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.
+🔸 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
 🔸 I enjoy learning from a low level and I have an interest in Assembly, gamedev and XR.  
 🔸 My most important values are: empathy, rationality and authenticity.  
 🔸 Some of my hobbies are: drawing, climbing, (board)games and crafting.
