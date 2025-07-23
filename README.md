@@ -1,7 +1,6 @@
-<h2 align="center">Heyo, I'm Djaisin!<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
+<h2 align="center">Heyo, Raspurrin here!<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
 
-🔸 But you could also call me Michelle.  
-🔸 I am currently a student at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
+🔸 I studied at <a href="https://42wolfsburg.de/">42Wolfsburg</a>.  
 🔸 I enjoy learning from a low level and I have an interest in XR and gamedev.  
 🔸 I aspire to create something to meaningfully contribute to the world.  
 🔸 My most important values are: empathy, rationality and authenticity.
